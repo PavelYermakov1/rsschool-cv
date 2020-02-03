@@ -6,6 +6,7 @@
 * https://vk.com/id17677932
 * pavelak137@mail.ru
 * https://t.me/PavelErmakov
+* https://github.com/PavelYermakov1
 
 ## Summary
 
@@ -19,10 +20,11 @@ I am a beginner web-developer, passionately interested in programming and modern
 * React
 * Git
 * Figma
+* Photoshop
 
 ## Code examples
 
-** https://pavelyermakov1.github.io/CV/ **
+[CV](https://pavelyermakov1.github.io/CV/)
 
 ## Experience 
 
