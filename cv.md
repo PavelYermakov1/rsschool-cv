@@ -28,7 +28,8 @@ I am a beginner web-developer, passionately interested in programming and modern
 
 ## Experience 
 
-[Piskel-clone](https://pavelyermakov1.github.io/Piskel-clone/)
+* [Piskel-clone](https://pavelyermakov1.github.io/Piskel-clone/)
+* [Film directors of Belarus](https://bcj.netlify.com/)
 
 ## Education
 
