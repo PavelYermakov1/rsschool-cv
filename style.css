@@ -131,7 +131,7 @@ nav {
     .avatar {
         width: 230px;
         height: 230px;
-        background: url(./Assets/photo.jpg);
+        background: url(./assets/photo.jpg);
         background-size: 150%;
         border-radius: 50%;
         background-position-y: 0px;
@@ -249,7 +249,7 @@ nav {
         }
     
     .contacts-link .contacts-icon {
-        background: url(../../Assets/photo.jpg);
+        background: url(./assets/photo.jpg);
     }
     .skills-code .container {
         height: 450px;
